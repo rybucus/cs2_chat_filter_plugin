@@ -1,5 +1,5 @@
-#ifndef _RUBY_ANTIAFK_PLUGIN_H_
-#define _RUBY_ANTIAFK_PLUGIN_H_
+#ifndef _RUBY_CHAT_FILTER_PLUGIN_H_
+#define _RUBY_CHAT_FILTER_PLUGIN_H_
 
 #include <igameevents.h>
 #include <sh_vector.h>
@@ -47,4 +47,4 @@ public:
 
 extern ChatFilterPlugin g_Plugin;
 
-#endif // _RUBY_ANTIAFK_PLUGIN_H_
+#endif // _RUBY_CHAT_FILTER_PLUGIN_H_
