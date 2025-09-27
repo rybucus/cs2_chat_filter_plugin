@@ -1,0 +1,11 @@
+{
+    "name": "cs2_chat_filter_plugin",
+    "alias": "cs2_chat_filter_plugin",
+    "display_name": "Chat Filter",
+    "description": "",
+    "author": "Rybucus",
+    "url": "",
+    "log_tag": "CS2_CHAT_FILTER_PLUGIN",
+    "license": "MIT",
+    "version": "1.0.0.{{git-shorthash}}"
+}

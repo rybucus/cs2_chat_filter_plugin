@@ -1,0 +1,9 @@
+build
+objdir
+.vs
+
+*.dll
+*.dylib
+*.exe
+*.so
+*.bat
